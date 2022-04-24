@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "1",
+      "mobile": 1,
+      "email": "1",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "fullname": "Vitthal Kaul",
+      "mobile": 8700758387,
+      "email": "vskaul@mitaoe.ac.in",
+      "password": "vitthal",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

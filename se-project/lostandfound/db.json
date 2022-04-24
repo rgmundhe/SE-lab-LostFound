@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Rohit Mundhe",
+      "mobile": 1234567890,
+      "email": "abcd@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "fullname": "Vitthal Kaul",
+      "mobile": 1234567890,
+      "email": "vskaul@mitaoe.ac.in",
+      "password": "Vitthal@123",
+      "id": 2
+    },
+    {
+      "fullname": "1",
+      "mobile": 1,
+      "email": "1",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "fullname": "Manav Bhosale",
+      "mobile": 7620901639,
+      "email": "mbbhosale@gmail.com",
+      "password": "Manav@123",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
